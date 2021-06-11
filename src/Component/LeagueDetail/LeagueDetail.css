@@ -1,0 +1,97 @@
+img.imging {
+    height: 100px;
+    transform:translateY(-150px)
+}
+.body {
+    background: #040e21;
+    height: 1000px;
+}
+/* .bodyArea {
+    background: orange;
+    height: 400px;
+    width: 1100px;
+    margin: auto;
+    overflow: hidden;
+} */
+.bodyArea {
+    background: #beb7ab0d;
+    /* height: 650px; */
+    width: 1100px;
+    margin: auto;
+    overflow: hidden;
+    border: 1px solid;
+    box-shadow: -1px 1px 11px 1px #e5d9d9;
+    border-radius: 4px;
+    padding:7px;
+}
+
+.backGo {
+    background: #ddd;
+    width: 100%;
+    margin: auto;
+    transform: translateY(10px);
+    border-radius: 10px;
+    height: 200px;
+}
+.letSite {
+    width: 488px;
+    float: left;
+}
+.rightSite {
+    width: 311px;
+    float: right;
+}
+.letSite .one {
+    transform: translateX(40px);
+}
+
+.letSite .two {
+    transform: translateX(7px);
+}
+
+.letSite .three {
+    transform: translateX(4px);
+}
+
+.letSite .four {
+    transform: translateX(5px);
+}
+svg.svg-inline--fa.fa-map-marker-alt.fa-w-12 {
+    margin-right: 10px;
+}
+svg.svg-inline--fa.fa-flag.fa-w-16 {
+    margin-right: 5px;
+}
+svg.svg-inline--fa.fa-futbol.fa-w-16 {
+    margin-right: 5px;
+}
+.letSite .four {
+    transform: translateX(-18px);
+}
+svg.svg-inline--fa.fa-user-circle.fa-w-16 {
+    margin-right: 5px;
+}
+.rightSite img {
+    height: 173px;
+    width: 282px;
+    transform: translateY(13px);
+}
+.bodyArea .pra {
+    color: #ddd;
+    text-align: justify;
+}
+
+.bodyArea .secondpra {
+    color: #ddd;
+    text-align: justify;
+}
+.body ul {
+    list-style: none;
+}
+
+.body ul li {
+    float: left;
+}
+
+.body ul li a img {width: 47px;transform: translateX(539px);margin-top: 22px;padding: 7px;}
+
